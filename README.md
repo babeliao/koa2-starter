@@ -26,7 +26,7 @@ A koa2 starter by using mysql, gulp includes async/await, pm2, express-style mid
 
 
 ## Getting Start
-#####Development environment：
+##### Development environment：
 开发环境
 
 ```
@@ -48,7 +48,7 @@ http://127.0.0.1:3000/
 db.sync({force: true});
 ```
 即访问index页面后程序会自动根据models在数据库建立对应table
-#####Production environment ：
+##### Production environment ：
 生产环境，在之前的基础上  On the basis of previous
 
 ```
